@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TickReplay sheet - privacy policy</title>
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px;color:#222}</style></head>
+<body>
+<h1>Privacy policy</h1>
+<p>TickReplay sheet is a personal Google Apps Script used only by its owner, on the owner's own Google account and spreadsheet.</p>
+<ul>
+<li>It reads and writes only the owner's own spreadsheet, Drive files, Gmail messages and Apps Script project, to keep a personal trading log.</li>
+<li>No data is sold, shared with, or sent to anyone else.</li>
+<li>No other users can sign in to it.</li>
+</ul>
+<p>Questions: contact the owner of this page through GitHub.</p>
+</body></html>
